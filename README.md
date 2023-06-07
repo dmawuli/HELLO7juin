@@ -1,1 +1,4 @@
-# HELLO7juin
+# maven-project
+
+Simple Maven Project
+<br
